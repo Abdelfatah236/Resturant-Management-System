@@ -1,0 +1,138 @@
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\menu.exe.config
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\menu.exe
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\menu.pdb
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form1.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.exe
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.pdb
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form2.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form3.resources
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form4.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.csproj.CopyComplete
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form5.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form6.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.Form7.resources
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\stdole.dll
+C:\Users\LAPTOP\source\repos\menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.admin.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.crystal.resources
+C:\Users\LAPTOP\source\repos\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\menu.exe.config
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\menu.exe
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\menu.pdb
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\ShockwaveFlashObjects.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\stdole.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.AssemblyReference.cache
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.admin.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.crystal.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form1.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form2.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form3.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form4.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form5.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form6.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form7.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Properties.Resources.resources
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.GenerateResource.cache
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.CoreCompileInputs.cache
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.CopyComplete
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.exe
+F:\fcis\third\THIRD (2) GRADE\Data base\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.pdb
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\menu.exe.config
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\menu.exe
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\menu.pdb
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\ShockwaveFlashObjects.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\stdole.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.AssemblyReference.cache
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.admin.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.crystal.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form1.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form2.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form3.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form4.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form5.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form6.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Form7.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.Properties.Resources.resources
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.GenerateResource.cache
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.CoreCompileInputs.cache
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.csproj.CopyComplete
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.exe
+F:\fcis\projects\[Restaurant Management System]_[ 17]_[general]\phase 2\Restaurant Management System\obj\Debug\menu.pdb
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\menu.exe.config
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\menu.exe
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\menu.pdb
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\ShockwaveFlashObjects.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\stdole.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.admin.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.crystal.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form1.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form2.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form3.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form4.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form5.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form6.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Form7.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.Properties.Resources.resources
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.csproj.GenerateResource.cache
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.csproj.Up2Date
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.exe
+D:\Studying\الكليه\Projects\Resturant Management System\Restaurant Management System\obj\Debug\menu.pdb
